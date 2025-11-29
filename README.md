@@ -1,7 +1,8 @@
 # SwerveDrive-HC-Blueprint
 An Advanced omnidirectional robot drivetrain.
 
-![Image of a single swerve pod](Screenshot 2025-11-28 185714.png)
+![Image of a single swerve pod](https://github.com/Pirate1113/SwerveDrive-HC-Blueprint/blob/main/Screenshot%202025-11-28%20185714.png)
+A single pod of our swerve drive
 
 This is our third generation swerve drivetrain made for First Tech Challenge (FTC) inspired by the coaxial swerve drivetrains found in the First Robotics Competition (FRC). 
 FTC and FRC are both competitions organized by the non-profit, FIRST, an organization devoted to robotics programs for students from elementry through highschool.
